@@ -415,7 +415,7 @@ const Home = () => {
                 Bike • Scooter • Car
               </p>
               <h1 style={{ animationDelay: '70ms' }} className="sg-hero-up mb-6 text-balance text-4xl font-extrabold leading-[1.08] tracking-[-0.03em] sm:text-5xl md:text-6xl xl:text-[4rem]">
-                Reliable Repair Service <span className="text-[#E51B12]">At Your Doorstep.</span>
+                Reliable Repair Service Ankit <span className="text-[#E51B12]">At Your Doorstep.</span>
               </h1>
               <p style={{ animationDelay: '140ms' }} className="sg-hero-up mb-9 max-w-lg text-base leading-[1.7] text-gray-700 sm:text-lg">
                 Sai Garage offers expert bike, scooter and car repairs with honest pricing and quick
