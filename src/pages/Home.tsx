@@ -413,14 +413,13 @@ const Home = () => {
             <div>
               <p style={{ animationDelay: '0ms' }} className="sg-hero-up mb-4 inline-flex items-center gap-2 rounded-full border border-gray-200 bg-[#F5F4F2] px-4 py-1.5 text-sm font-bold text-[#E51B12]">
                 Bike • Scooter • Car
-              </p>
-              <h1 style={{ animationDelay: '70ms' }} className="sg-hero-up mb-6 text-balance text-4xl font-extrabold leading-[1.08] tracking-[-0.03em] sm:text-5xl md:text-6xl xl:text-[4rem]">
-                Reliable Repair Service  <span className="text-[#E51B12]">At Your Doorstep.</span>
-              </h1>
-              <p style={{ animationDelay: '140ms' }} className="sg-hero-up mb-9 max-w-lg text-base leading-[1.7] text-gray-700 sm:text-lg">
-                Sai Garage offers expert bike, scooter and car repairs with honest pricing and quick
-                turnaround. Book a service today and get back on the road.
-              </p>
+             </p>
+<h1 style={{ animationDelay: '70ms' }} className="sg-hero-up mb-6 text-balance text-4xl font-extrabold leading-[1.08] tracking-[-0.03em] sm:text-5xl md:text-6xl xl:text-[4rem]">
+  Bike, Scooter & Car Repair Service <span className="text-[#E51B12]">Across Delhi NCR.</span>
+</h1>
+<p style={{ animationDelay: '140ms' }} className="sg-hero-up mb-9 max-w-lg text-base leading-[1.7] text-gray-700 sm:text-lg">
+  Sai Garage provides professional bike, scooter and car repair services across Delhi NCR, including Delhi, Noida, Gurugram, Ghaziabad, Faridabad and Greater Noida. Book reliable vehicle servicing at your doorstep with transparent pricing and expert care.
+</p>
               <div style={{ animationDelay: '210ms' }} className="sg-hero-up flex flex-wrap gap-3">
                 <a href={TEL} className={BTN_PRIMARY}>
                   <Phone className="h-5 w-5" />
